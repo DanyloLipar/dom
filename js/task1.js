@@ -17,5 +17,5 @@ for (let i = 0; i <= listUsers.length - 1; i++) {
 }
 
 const secondJoined = secondArr.join(' ');
-console.log(`---Variant 2---
+console.log(`---Variant 2--
 Output result: ${secondJoined}`);
